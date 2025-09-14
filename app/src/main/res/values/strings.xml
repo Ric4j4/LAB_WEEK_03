@@ -11,5 +11,11 @@
     <string name="latte_title">CAFFE LATTE</string>
     <string name="latte_desc">A tall, mild \"milk coffee\" (about 150-300 ml). An espresso with steamed milk and only a little milk foam poured over it. Serve in a latte glass or a coffee cup. Flavored syrup can be added.</string>
 
+    <string name="cappuccino_title">CAPPUCINO</string>
+    <string name="cappuccino_desc">Cappucino Cihuy</string>
+
+    <string name="espresso_title">ESPRESSO</string>
+    <string name="espresso_desc">Espresso Eakk</string>
+
     <string name="coffee_list">Coffee List</string>
 </resources>
